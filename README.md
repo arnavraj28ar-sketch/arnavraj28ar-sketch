@@ -1,137 +1,87 @@
-=<h1 align="center">👋 Hi, I'm Arnav Raj Singh</h1>
+# Hi, I'm Arnav Raj 👋
 
-<h3 align="center">
-  📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python
-</h3>
+🎓 BCA Student | Aspiring Data Analyst 📊
 
-<p align="center">
-  BCA Student passionate about Data Analytics, Business Intelligence,
-  and turning raw data into meaningful insights.
-</p>
+I'm a BCA student passionate about Data Analytics, data visualization, and turning raw data into meaningful insights. I'm continuously improving my skills through projects, internships, and hands-on practice.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnavra j28ar-sketch&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
+## 🚀 About Me
 
----
+- 🎓 Pursuing Bachelor of Computer Applications (BCA)
+- 📊 Interested in Data Analytics and Business Intelligence
+- 💻 Working with SQL, Python, Power BI, and Excel
+- 📈 Experienced in building interactive dashboards and analyzing datasets
+- 🌱 Continuously learning new tools and analytical techniques
+- 🎯 Goal: To build a career in Data Analytics
 
-## 🙋‍♂️ About Me
+## 🛠️ Skills
 
-- 🎓 I'm a BCA student interested in Data Analytics.
-- 📊 I enjoy analysing datasets and discovering useful patterns.
-- 💻 I work with SQL, Power BI, Excel, and Python.
-- 📈 I build projects focused on data analysis and visualization.
-- 🧠 Currently improving my SQL and analytical skills.
-- 🚀 My goal is to become a skilled Data Analyst.
-- 🤝 Open to learning opportunities and collaboration.
+### 📊 Data Analytics & Visualization
+- Data Analytics
+- Data Visualization
+- Dashboard Building
+- Dashboard Development
+- Report Building
+- Analytical Skills
+- AI for Data Analysis
+- Data Cleaning
+- Data Interpretation
 
----
+### 💻 Programming & Query Languages
+- SQL
+- Python
+- T-SQL
+- HTML
+- CSS
 
-## 🛠️ Tech Stack
+### 📈 Tools & Technologies
+- Microsoft Power BI
+- Microsoft Excel
+- Tableau
+- SQL Server
+- Pandas
+- NumPy
+- DAX
+- n8n
 
-### 📊 Data Analytics & Business Intelligence
+### 🎨 Design & Other Skills
+- Canva
+- Video Editing
+- Planning
+- Group Work
+- Mathematics
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+## 💼 Internship Experience
 
-### 🐍 Programming & Data Analysis
+- Data Analyst Intern — Labmentix
+- AI Data Analytics Internship
+- Power BI Virtual Internship — Indolike
+- AI Data Analyst Internship — InAmigos Foundation
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+## 📂 My Projects
 
-### 🗄️ Database & Tools
+- 📈 **Stock Market Analysis** — SQL Server, T-SQL
+- 💰 **Mutual Fund Analysis** — Python, Excel, Power BI
+- 🦠 **COVID-19 Data Analysis** — Python, Pandas, Data Visualization
+- 👥 **Employee Attrition Analysis** — Workforce Data Analysis
 
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🔗 Connect With Me
 
----
+- 💼 LinkedIn: [Visit My LinkedIn](https://www.linkedin.com/in/arnav-raj-singh-b04a76371/)
+- 🌐 Portfolio: [Visit My Portfolio](https://arnavraj28ar-sketch.github.io/arnavrajsingh.github.io/)
 
-## 🚀 Featured Projects
+## ⚙️ Tech Stack
 
-### 📈 Stock Market Analysis Using SQL
-
-- Analysed historical data for six stocks.
-- Used SQL queries and window functions.
-- Calculated moving averages and Buy/Sell signals.
-- Explored price movements and stock performance.
-
-🔗 [View Project](https://github.com/arnavra j28ar-sketch/stock-market-analysis)
-
-### 💰 Mutual Fund Analysis
-
-- Explored mutual fund performance and returns.
-- Used Python libraries, Excel, and Power BI.
-- Created analysis to understand investment trends.
-
-🔗 [View Project](https://github.com/arnavra j28ar-sketch/mutual-fund-analysis)
-
-### 🦠 COVID-19 Data Analysis
-
-- Explored COVID-19 cases, deaths, and trends.
-- Used data analysis and visualization techniques.
-
-🔗 [View Project](https://github.com/arnavra j28ar-sketch/covid-19-data-analysis)
-
-### 👥 Employee Attrition Analysis
-
-- Explored employee turnover patterns.
-- Analysed workforce data to identify key insights.
-
-🔗 [View Project](https://github.com/arnavra j28ar-sketch/employee-attrition-analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced SQL Queries
-- Data Cleaning and Transformation
-- Power BI Dashboards and DAX
-- Exploratory Data Analysis
-- Data Visualization and Reporting
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/arnav-raj-singh-b04a76371/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://arnavraj28ar-sketch.github.io/arnavrajsingh.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/arnavra j28ar-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavra j28ar-sketch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavra j28ar-sketch&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">💡 Turning Data Into Insights 📊</h3>
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+⭐ *"Turning data into insights, one project at a time."*
