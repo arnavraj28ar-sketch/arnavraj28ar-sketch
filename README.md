@@ -9,50 +9,13 @@ I'm a BCA student passionate about Data Analytics, data visualization, and turni
 - 🎓 Pursuing Bachelor of Computer Applications (BCA)
 - 📊 Interested in Data Analytics and Business Intelligence
 - 💻 Working with SQL, Python, Power BI, and Excel
-- 📈 Experienced in building interactive dashboards and analyzing datasets
+- 📈 Interested in data visualization and dashboard development
 - 🌱 Continuously learning new tools and analytical techniques
 - 🎯 Goal: To build a career in Data Analytics
 
-## 🛠️ Skills
-
-### 📊 Data Analytics & Visualization
-- Data Analytics
-- Data Visualization
-- Dashboard Building
-- Dashboard Development
-- Report Building
-- Analytical Skills
-- AI for Data Analysis
-- Data Cleaning
-- Data Interpretation
-
-### 💻 Programming & Query Languages
-- SQL
-- Python
-- T-SQL
-- HTML
-- CSS
-
-### 📈 Tools & Technologies
-- Microsoft Power BI
-- Microsoft Excel
-- Tableau
-- SQL Server
-- Pandas
-- NumPy
-- DAX
-- n8n
-
-### 🎨 Design & Other Skills
-- Canva
-- Video Editing
-- Planning
-- Group Work
-- Mathematics
-
 ## 💼 Internship Experience
 
-- Data Analyst Intern — Labmentix
+- Data Analyst Internship — Labmentix
 - AI Data Analytics Internship
 - Power BI Virtual Internship — Indolike
 - AI Data Analyst Internship — InAmigos Foundation
