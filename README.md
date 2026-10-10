@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Arnav Raj Singh</h1>
+=<h1 align="center">👋 Hi, I'm Arnav Raj Singh</h1>
 
 <h3 align="center">
   📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python
